@@ -9,7 +9,7 @@
 * Create a file with the appropriate permissons in your ~/.ssh directory and insert the SSH key content into it;
 * Finally, run:
 
-        ssh grader@3.83.251.134 -p 2200 -i ~/.ssh/{SSHKeyFile}
+        ssh grader@184.73.21.80 -p 2200 -i ~/.ssh/{SSHKeyFile}
 
 * You are now connected to my Lightsail instance!
 
