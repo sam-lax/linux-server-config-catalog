@@ -41,3 +41,17 @@
   * Denied TCP port 22 and all other not white-listed port/protocol connections (incoming/outgoing);
   * Allowed outgoing TCP port 80 and 123;
   * Allowed incoming TCP port 2200 via SSH.
+
+
+---
+
+
+## Resources
+* Turtorials:
+  * http://lucumr.pocoo.org/2007/5/21/getting-started-with-wsgi/
+  * http://wsgi.tutorial.codepoint.net/intro
+  * https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+* Documentation:
+  * http://flask.pocoo.org/docs/1.0/deploying/mod_wsgi/
+* Video:
+  * https://www.youtube.com/watch?v=wq0saslschw
